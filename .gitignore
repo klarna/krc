@@ -1,0 +1,5 @@
+*.app
+*.beam
+.eunit
+doc
+/deps
