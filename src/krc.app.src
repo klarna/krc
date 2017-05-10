@@ -1,7 +1,0 @@
-{application, krc, [ {description, "KRC"}
-                   , {vsn,          git}
-                   , {modules,      []}
-                   , {registered,   [krc_server]}
-                   , {applications, [kernel, stdlib]}
-                   , {mod,          {krc_app, []}}
-                   ]}.
